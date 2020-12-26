@@ -1,5 +1,5 @@
 # Motion-Detection-Using-Open-Cv
-This is a code repo which explains about OpenCv (An open source API), &amp; how it can be used for motion detection !
+This is a code repo which explains about OpenCv (An open source API), &amp; how it can be used for motion detection!
 
 <h3>Use-Case:</h3>
 A company has approaced you that is studying human behavior. The task is to give them a webcam, which can detect the motion or any movement in front of it. After detection it should return a csv file which will track the start & end time of the object.
